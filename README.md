@@ -2,5 +2,5 @@
 
 ## Aprendendo ionic1
 
-### Exemplos envolvendo o frammework
+### Exemplos envolvendo o Frammework
 
