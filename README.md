@@ -2,5 +2,5 @@
 
 ## Aprendendo ionic1
 
-### Exemplos envolvendo o Frammework
+### Exemplo envolvendo o Frammework: ``Aplicação de notas de tarefa``
 
